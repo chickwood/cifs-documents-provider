@@ -61,7 +61,7 @@ object Deps {
         const val kotlinxSerializationClasspath = "org.jetbrains.kotlin:kotlin-serialization:$kotlinVersion"
         const val kotlinxSerializationJson = "org.jetbrains.kotlinx:kotlinx-serialization-json:1.3.3"
 
-        const val jcifsNg = "eu.agno3.jcifs:jcifs-ng:2.1.7"
+        const val jcifsNg = "eu.agno3.jcifs:jcifs-ng:2.1.8"
         const val networkTools = "com.github.stealthcopter:AndroidNetworkTools:0.4.5.3"
     }
 
